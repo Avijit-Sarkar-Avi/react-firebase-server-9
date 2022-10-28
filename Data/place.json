@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Sundarban",
+        "image": "https://www.thestatesman.com/wp-content/uploads/2020/06/tger.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cox's Bazar",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "id": 3,
+        "name": "Sajek Valley",
+        "image": "https://tourrom.com/wp-content/uploads/2019/01/Discover-sajek-valley-1024x701.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sreemangal",
+        "image": "https://mediaim.expedia.com/localexpert/2509712/52838040-8208-45b6-b578-b3e898ab5ece.jpg?impolicy=resizecrop&rw=1005&rh=565"
+    }
+]
